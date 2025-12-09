@@ -17,4 +17,4 @@ service:
   # This controls whether a Service is created
   create: true
   # This sets the NodePort value if the service type is NodePort
-  nodePort: 30001
+  nodePort: 31001
